@@ -1,4 +1,4 @@
-### Hi there, I'm Justin - aka [RuKira] 👋 
+### Hi there, I'm Justin - aka RuKira 👋 
 
 ## I'm a Developer, and Student!!
 
