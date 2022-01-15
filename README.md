@@ -42,4 +42,4 @@
 [facebook]: https://www.facebook.com/jduesling13/
 [website]: https://codeSTACKr.com
 
-- Credit to codeSTACKr[website]
+### Credit to codeSTACKr[website]
