@@ -40,6 +40,6 @@
 [youtube]: https://www.youtube.com/channel/UCRf2rYUPqzvXsRwy3IoHt7A
 [linkedin]: https://www.linkedin.com/in/shawn-d-8914a9122/
 [facebook]: https://www.facebook.com/jduesling13/
-[website]: https://codeSTACKr.com
+[website]: https://github.com/codeSTACKr/codeSTACKr
 
 ### Credit to [codeSTACKr][website]
